@@ -90,7 +90,7 @@ for msg in st.session_state.messages:
             f"<b>Bot:</b> {msg['content']} {timestamp}</div>", unsafe_allow_html=True
         )
 st.markdown("</div>", unsafe_allow_html=True)
-=======
+
 # app.py - Safe Version
 
 import os

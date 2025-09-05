@@ -36,7 +36,7 @@ while True:
 
     except Exception as e:
         print("⚠️ Error:", e)
-=======
+
 from openai import OpenAI
 
 # Apni API key yahan daalo
