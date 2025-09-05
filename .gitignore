@@ -1,0 +1,17 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore environment variables file (if used)
+.env
+
+# Ignore config files with secrets
+config.py
+settings.py
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore logs
+*.log
