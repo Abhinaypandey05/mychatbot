@@ -2,7 +2,7 @@
 from openai import OpenAI
 
 # Apni API key yahan daalo
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 # Chat history store karne ke liye
 history = [
